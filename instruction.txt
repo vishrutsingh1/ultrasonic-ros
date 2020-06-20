@@ -1,0 +1,7 @@
+step 1:
+ Burn the ultrasonic_ros code on arduino mega
+ 
+step 2:
+ launch [ roslaunch rosserial_python serial.launch ]
+ 
+ 
